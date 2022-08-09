@@ -1,6 +1,6 @@
 {
   "name": "@safecoin/buffer-layout",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "description": "Translation between JavaScript values and Buffers",
   "keywords": [
     "Buffer",
